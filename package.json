@@ -1,0 +1,14 @@
+{
+  "name": "testpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testPage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frank.polte@mailbox.org",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.10.0"
+  }
+}
